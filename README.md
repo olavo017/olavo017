@@ -1,16 +1,14 @@
-## Hi there 👋
+## Oi, eu sou Olavo
 
-<!--
-**olavo017/olavo017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante da escola Jose Marcelino
 
-Here are some ideas to get you started:
+Estou no GitHub principalmente para as seguintes ações:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudar as aulas da plataforma Alura
+
+Programar scratch e javaScript
+
+Meu desenvolvimento pessoal em programação
+
+Para entrar em contato comigo acesse:
+_olavojacob_
